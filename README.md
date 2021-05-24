@@ -1,13 +1,13 @@
 # Desafio Guiabolso
-Desafio Guiabolso | Back-end Engineer
+[Desafio Guiabolso | Back-end Engineer](https://github.com/GuiaBolso/seja-um-guia-back)
 
 ### Instruções
 Requisição de lista de transações via ```[GET] /<id>/transacoes/<ano>/<mes>```,
 onde:
 
 - `id` representa o ID do usuário e deve ser um número inteiro de 1.000 a 100.000;
-- `ano` representa o ano de ocorrência das transações e deve ser um número inteiro de 4 dígitos;
-- `mes` representa o mês de ocorrência das transações e deve ser um número inteiro de 1 a 12.
+- `ano` representa o ano de ocorrência das transações (por convenção, deve ser um número inteiro de 4 dígitos);
+- `mes` representa o mês de ocorrência das transações (por convenção, deve ser um número inteiro de 1 a 12).
 
 #### Execução
 
